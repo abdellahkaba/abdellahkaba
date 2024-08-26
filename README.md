@@ -5,7 +5,7 @@
 - Email: [abdallahkaba98@gmail.com](mailto:abdallahkaba98@gmail.com)
 - Email (ISI): [abdoulayekaba@groupeisi.com](mailto:abdoulayekaba@groupeisi.com)
 
-## 🚀 Technologies & Tools
+## 🚀 Technologies et outils
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -36,19 +36,12 @@
 
 ### 🚀 Langages les plus utilisés
 
-![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=abdellahkaba&layout=compact&langs_count=6&theme=radical)
-
-### 🏆 Trophées GitHub
-
-![GitHub Trophées](https://github-profile-trophy.vercel.app/?username=abdellahkaba&theme=radical&no-bg=true&no-frame=true)
+![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=abdellahkaba&layout=compact&langs_count=8&theme=radical)
 
 ### 🔥 Streaks GitHub
 
 ![Streaks GitHub](https://github-readme-streak-stats.herokuapp.com/?user=abdellahkaba&theme=radical)
 
-### 🌟 Contribution Graphique
-
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=abdellahkaba&theme=react-dark&area=true)
 
 
 
