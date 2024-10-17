@@ -1,6 +1,6 @@
 ## 👋 Hello, I'm Abdellah
 
-## 📫 Comment me joindre
+## 📫 How to contact me
 - LinkedIn: [Abdoulaye Kaba](https://www.linkedin.com/in/abdoulaye-kaba-51924822a/)
 - Email: [abdallahkaba98@gmail.com](mailto:abdallahkaba98@gmail.com)
 - Email (ISI): [abdoulayekaba@groupeisi.com](mailto:abdoulayekaba@groupeisi.com)
