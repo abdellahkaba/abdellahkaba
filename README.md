@@ -30,17 +30,13 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
-## 📊 Statistiques GitHub
 
-![Kaba Abdoulaye's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdellahkaba&show_icons=true&theme=radical)
 
 ### 🚀 Langages les plus utilisés
 
-![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=abdellahkaba&layout=compact&langs_count=8&theme=radical)
 
-### 🔥 Streaks GitHub
 
-![Streaks GitHub](https://github-readme-streak-stats.herokuapp.com/?user=abdellahkaba&theme=radical)
+
 
 
 
